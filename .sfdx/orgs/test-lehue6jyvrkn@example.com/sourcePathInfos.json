@@ -2,14 +2,14 @@
     [
         "/Volumes/Official/SalesforceDX/geolocation/force-app",
         {
-            "state": "n",
             "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1521181904000,
             "changeTime": 1521181904000,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/Volumes/Official/SalesforceDX/geolocation/force-app/main",
         {
-            "state": "n",
             "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1521181904000,
             "changeTime": 1521181904000,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -36,23 +36,23 @@
             "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 204,
-            "modifiedTime": 1521193083000,
-            "changeTime": 1521193083000,
-            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a"
+            "size": 272,
+            "modifiedTime": 1521453857000,
+            "changeTime": 1521453857000,
+            "contentHash": "33a904ded1cfd6348ff50007767285f980e33770"
         }
     ],
     [
         "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/aura",
         {
-            "state": "n",
             "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 68,
             "modifiedTime": 1521181904000,
             "changeTime": 1521181904000,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "/Volumes/Official/SalesforceDX/geolocation",
         {
-            "state": "n",
             "sourcePath": "/Volumes/Official/SalesforceDX/geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1521191960000,
             "changeTime": 1521191960000,
             "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -75,144 +75,417 @@
     [
         "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 403,
-            "modifiedTime": 1521193083000,
+            "modifiedTime": 1521195168000,
             "changeTime": 1521193083000,
-            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9708,
-            "modifiedTime": 1521193083000,
+            "modifiedTime": 1521195168000,
             "changeTime": 1521193083000,
-            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7"
+            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9756,
-            "modifiedTime": 1521193083000,
+            "modifiedTime": 1521195168000,
             "changeTime": 1521193083000,
-            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e"
+            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9708,
-            "modifiedTime": 1521193083000,
+            "modifiedTime": 1521195168000,
             "changeTime": 1521193083000,
-            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77"
+            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9756,
-            "modifiedTime": 1521193083000,
+            "modifiedTime": 1521195168000,
             "changeTime": 1521193083000,
-            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d"
+            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/permissionsets/GeoLocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/permissionsets/GeoLocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 702,
-            "modifiedTime": 1521193083000,
+            "modifiedTime": 1521441382000,
             "changeTime": 1521193083000,
-            "contentHash": "78c31b6745db7bb8f1b53476b95e66ccfb879383"
+            "contentHash": "78c31b6745db7bb8f1b53476b95e66ccfb879383",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/objects/Account/fields",
         {
-            "state": "u",
             "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
-            "modifiedTime": 1521193083000,
+            "modifiedTime": 1521195168000,
             "changeTime": 1521193083000,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/objects/Account",
         {
-            "state": "u",
             "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/objects/Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
-            "modifiedTime": 1521193083000,
+            "modifiedTime": 1521195168000,
             "changeTime": 1521193083000,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
-            "modifiedTime": 1521193083000,
+            "modifiedTime": 1521195168000,
             "changeTime": 1521193083000,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/layouts",
         {
-            "state": "u",
             "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 204,
-            "modifiedTime": 1521193083000,
+            "modifiedTime": 1521195168000,
             "changeTime": 1521193083000,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/permissionsets",
         {
-            "state": "u",
             "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
-            "modifiedTime": 1521193083000,
+            "modifiedTime": 1521441382000,
             "changeTime": 1521193083000,
-            "contentHash": "8b10a2d77671f2e7d312126417769f34ff4f53c8"
+            "contentHash": "8b10a2d77671f2e7d312126417769f34ff4f53c8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1521453857000,
+            "changeTime": 1521453857000,
+            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259"
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1259,
+            "modifiedTime": 1521453857000,
+            "changeTime": 1521453857000,
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee"
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 696,
+            "modifiedTime": 1521453857000,
+            "changeTime": 1521453857000,
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06"
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2586,
+            "modifiedTime": 1521453857000,
+            "changeTime": 1521453857000,
+            "contentHash": "95a44b9ca71fe03fdf65ddd8eea12f1910f38de2"
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1466,
+            "modifiedTime": 1521453857000,
+            "changeTime": 1521453857000,
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da"
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 618,
+            "modifiedTime": 1521453857000,
+            "changeTime": 1521453857000,
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc"
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 372964,
+            "modifiedTime": 1521453857000,
+            "changeTime": 1521453857000,
+            "contentHash": "50af73b8bbcc8e8f468336c70db64caa9d3e6ab5"
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.map",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.map",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 477015,
+            "modifiedTime": 1521453857000,
+            "changeTime": 1521453857000,
+            "contentHash": "2cccee773177c63a4b111794d0b47a57561a9980"
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 13694,
+            "modifiedTime": 1521453857000,
+            "changeTime": 1521453857000,
+            "contentHash": "548cf815a02cc5b7fd6e09a3c43d0027c6c4f63e"
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 142643,
+            "modifiedTime": 1521453857000,
+            "changeTime": 1521453857000,
+            "contentHash": "45015348ba641a883fd15d24bb58e100dbd7c1ab"
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 266,
+            "modifiedTime": 1521453857000,
+            "changeTime": 1521453857000,
+            "contentHash": "1bfaeb286290ee06e63c10f05adf982d3e3a13f5"
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/tabs/AccountLocator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/tabs/AccountLocator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1521453857000,
+            "changeTime": 1521453857000,
+            "contentHash": "a7a29cdf412039325168b30a893b549f3bbb7f3b"
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5142,
+            "modifiedTime": 1521453857000,
+            "changeTime": 1521453857000,
+            "contentHash": "d2ca5f0f04496a95565441daa849ee5e7970ea96"
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17845,
+            "modifiedTime": 1521453857000,
+            "changeTime": 1521453857000,
+            "contentHash": "3d31bb81025f24c9c7e36a765298af4d06724645"
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4802,
+            "modifiedTime": 1521453857000,
+            "changeTime": 1521453857000,
+            "contentHash": "8828992077a694e211d47057539887d58739fe33"
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4806,
+            "modifiedTime": 1521453857000,
+            "changeTime": 1521453857000,
+            "contentHash": "7a2bf0f4d9fb30384ad18b6dc8c87eb64e70ff6e"
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/staticresources",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1521453857000,
+            "changeTime": 1521453857000,
+            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49"
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/staticresources/leaflet/images",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/staticresources/leaflet/images",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1521453857000,
+            "changeTime": 1521453857000,
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659"
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/staticresources/leaflet",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/staticresources/leaflet",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1521453857000,
+            "changeTime": 1521453857000,
+            "contentHash": "becd83b7ba7e1f143ff2b586b41742041a0fee6d"
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1521453857000,
+            "changeTime": 1521453857000,
+            "contentHash": "b70bc94f40b78b314d99f19882863dd3ac8a61ec"
+        }
+    ],
+    [
+        "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Volumes/Official/SalesforceDX/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1521453857000,
+            "changeTime": 1521453857000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]

@@ -707,6 +707,7 @@
                 "nameForMsgs": "Report Folder",
                 "nameForMsgsPlural": "Report Folders",
                 "contentIsBinary": false,
+                "deleteSupported": true,
                 "decompositionConfig": {
                     "strategy": "nonDecomposed",
                     "workspaceStrategy": "nonDecomposed",
@@ -739,6 +740,7 @@
             "nameForMsgs": "Report Folder",
             "nameForMsgsPlural": "Report Folders",
             "contentIsBinary": false,
+            "deleteSupported": true,
             "decompositionConfig": {
                 "strategy": "nonDecomposed",
                 "workspaceStrategy": "nonDecomposed",
@@ -773,6 +775,7 @@
                 "nameForMsgs": "Dashboard Folder",
                 "nameForMsgsPlural": "Dashboard Folders",
                 "contentIsBinary": false,
+                "deleteSupported": true,
                 "decompositionConfig": {
                     "strategy": "nonDecomposed",
                     "workspaceStrategy": "nonDecomposed",
@@ -805,6 +808,7 @@
             "nameForMsgs": "Dashboard Folder",
             "nameForMsgsPlural": "Dashboard Folders",
             "contentIsBinary": false,
+            "deleteSupported": true,
             "decompositionConfig": {
                 "strategy": "nonDecomposed",
                 "workspaceStrategy": "nonDecomposed",
@@ -931,6 +935,7 @@
                 "nameForMsgs": "Document Folder",
                 "nameForMsgsPlural": "Document Folders",
                 "contentIsBinary": false,
+                "deleteSupported": true,
                 "decompositionConfig": {
                     "strategy": "nonDecomposed",
                     "workspaceStrategy": "nonDecomposed",
@@ -963,6 +968,7 @@
             "nameForMsgs": "Document Folder",
             "nameForMsgsPlural": "Document Folders",
             "contentIsBinary": false,
+            "deleteSupported": true,
             "decompositionConfig": {
                 "strategy": "nonDecomposed",
                 "workspaceStrategy": "nonDecomposed",
@@ -1043,6 +1049,7 @@
                 "nameForMsgs": "Email Template Folder",
                 "nameForMsgsPlural": "Email Template Folders",
                 "contentIsBinary": false,
+                "deleteSupported": true,
                 "decompositionConfig": {
                     "strategy": "nonDecomposed",
                     "workspaceStrategy": "nonDecomposed",
@@ -1075,6 +1082,7 @@
             "nameForMsgs": "Email Template Folder",
             "nameForMsgsPlural": "Email Template Folders",
             "contentIsBinary": false,
+            "deleteSupported": true,
             "decompositionConfig": {
                 "strategy": "nonDecomposed",
                 "workspaceStrategy": "nonDecomposed",
